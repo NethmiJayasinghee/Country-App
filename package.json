@@ -1,0 +1,29 @@
+{
+  "name": "country-app",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.0",
+    "vite": "^5.2.0"
+  },
+  "keywords": [
+    "react",
+    "vite",
+    "countries",
+    "restcountries",
+    "api"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "description": "A React + Vite app that displays country information using the REST Countries API."
+}
